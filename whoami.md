@@ -1,15 +1,15 @@
-## Hello everyone who is looking for about my information!
+# Welcome to My Information Page!
 
 ---
-###### Name: Kwangmook Lee
-###### Contact information:
+### Name: Kwangmook Lee
+### Contact information:
 - Email: klee29@nyit.edu
 - Address and Phone number: email me :) 
 - [LinkedIn](https://www.linkedin.com/in/kwangmook-lee-97867a14a/)
 
 ---
 
-###### *RV Section*: 
+### RV Section: 
 - DEGREE: 
   - Master of Science in Cybersecurity from New York Institute of Technology (2017 - 2019)
   - Master of Music in Classical Piano Performance from University of Cincinnati (2013 - 2015)
