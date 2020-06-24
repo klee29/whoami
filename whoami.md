@@ -52,9 +52,9 @@
 
 - PROFESSIONAL DEVELOPMENTS:
   - Learning DevOps:
-    - Docker & Kubernetes:
+    - Docker & [Kubernetes](https://github.com/klee29/ckaplayground):
       - Working on CKA (Certified Kubernetes Administrator) 
-    - CloudFormation:
+    - [CloudFormation](https://github.com/klee29/cfn):
       - Working on CloudFormation project by alone 
       - Sources From 'A Cloud Guru', 'Linux Academy', and 'Cloud Academy' 
   - Learning Cloud Computing:
