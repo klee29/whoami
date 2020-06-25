@@ -21,10 +21,10 @@
   - Other: Bilingual (Korean, English), Leadership, Time and Plan Management, Discipleship, Interpersonal, Fast Learner
 
 - CERTIFICATIONS:
-  - AWS Solution Architect Associate
-  - AWS Developer Associate
-  - AWS SysOps Administrator Associate
-  - AWS Security Specialty 
+  - [AWS Solution Architect Associate](https://github.com/klee29/whoami/blob/master/doc/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf)
+  - [AWS Developer Associate](https://github.com/klee29/whoami/blob/master/doc/AWS%20Certified%20Developer%20-%20Associate%20certificate.pdf)
+  - [AWS SysOps Administrator Associate](https://github.com/klee29/whoami/blob/master/doc/AWS%20Certified%20SysOps%20Administrator%20-%20Associate%20certificate.pdf)
+  - [AWS Security Specialty](https://github.com/klee29/whoami/blob/master/doc/AWS%20Certified%20Security%20-%20Specialty%20certificate.pdf)
 
 - PROJECTS: 
   - Two-tier Web application:
