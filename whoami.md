@@ -25,7 +25,7 @@
   - [AWS Developer Associate](https://github.com/klee29/whoami/blob/master/doc/AWS%20Certified%20Developer%20-%20Associate%20certificate.pdf)
   - [AWS SysOps Administrator Associate](https://github.com/klee29/whoami/blob/master/doc/AWS%20Certified%20SysOps%20Administrator%20-%20Associate%20certificate.pdf)
   - [AWS Security Specialty](https://github.com/klee29/whoami/blob/master/doc/AWS%20Certified%20Security%20-%20Specialty%20certificate.pdf)
-  -[AWS Advanced Networking Specialty]() 
+  - [AWS Advanced Networking Specialty](https://github.com/klee29/whoami/blob/master/doc/AWS%20Certified%20Advanced%20Networking%20-%20Specialty%20certificate.pdf) 
 
 - PROJECTS: 
   - Two-tier Web application:
